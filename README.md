@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![CookieRamen's github stats](https://github-readme-stats.vercel.app/api?username=Misaki0331&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Misaki0331&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Misaki0331/Misaki0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
