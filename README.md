@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Misaki0331)
+![](https://komarev.com/ghpvc/?username=Misaki0331) [![wakatime](https://wakatime.com/badge/github/Misaki0331/Genshin-Checker.svg)](https://wakatime.com/badge/github/Misaki0331/Genshin-Checker)
 
 [![Misaki0331's github stats](https://github-readme-stats.vercel.app/api?username=Misaki0331&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaki0331&layout=compact)
 
