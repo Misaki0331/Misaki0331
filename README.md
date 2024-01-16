@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Misaki0331) [![wakatime](https://wakatime.com/badge/user/018d0dbe-8663-45ea-bd9b-a77eb927dd94.svg)](https://wakatime.com/@018d0dbe-8663-45ea-bd9b-a77eb927dd94)
+![](https://komarev.com/ghpvc/?username=Misaki0331&label=Viewed+count) [![wakatime](https://wakatime.com/badge/user/018d0dbe-8663-45ea-bd9b-a77eb927dd94.svg)](https://wakatime.com/@018d0dbe-8663-45ea-bd9b-a77eb927dd94)
 
 [![Misaki0331's github stats](https://github-readme-stats.vercel.app/api?username=Misaki0331&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaki0331&layout=compact)
 
