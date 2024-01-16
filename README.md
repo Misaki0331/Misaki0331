@@ -1,9 +1,11 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Misaki0331&label=Viewed+count) [![wakatime](https://wakatime.com/badge/user/018d0dbe-8663-45ea-bd9b-a77eb927dd94.svg)](https://wakatime.com/@018d0dbe-8663-45ea-bd9b-a77eb927dd94)
+![](https://komarev.com/ghpvc/?username=Misaki0331&label=Viewed+count) [![wakatime](https://wakatime.com/badge/user/018d0dbe-8663-45ea-bd9b-a77eb927dd94.svg)](https://wakatime.com/@018d0dbe-8663-45ea-bd9b-a77eb927dd94) <br>
+|*My Status*|*My Trophies*|
+|:---:|:---:|
+|[![Misaki0331's github stats](https://github-readme-stats.vercel.app/api?username=Misaki0331&count_private=true&card_width=480)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaki0331&layout=compact&langs_count=8&card_width=480)](https://github.com/anuraghazra/github-readme-stats)|[![trophy](https://github-profile-trophy.vercel.app/?username=Misaki0331&theme=monokai&margin-w=20&margin-h=20&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)|
 
-[![Misaki0331's github stats](https://github-readme-stats.vercel.app/api?username=Misaki0331&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaki0331&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Misaki0331&bg_color=c0ffff&color=202020&line=40e080&point=40c040)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Misaki0331&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
